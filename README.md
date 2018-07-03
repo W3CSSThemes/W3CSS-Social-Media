@@ -1,2 +1,2 @@
-# W3CSS_Social_media
-social media template of w3school
+W3CSS Social Media HTML5 CSS3 Responsive Template based on  W3CSS framework.
+![screenshot](images/w3css-social-media-screenshot.jpg)
